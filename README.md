@@ -1,5 +1,7 @@
  $ DICE GAME
-A Gme developed using old javascript development tools and syntax.
+ 
+ 
+A Game developed using old javascript development tools and syntax.
 
 
 GAME RULES:
